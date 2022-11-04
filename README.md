@@ -1,16 +1,7 @@
 # random_people_data
 
-A new Flutter project.
+Create an app which generates Random People data. Display them in your own type of best UI. Also provide a Reset button to fetch new random data.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="300" height="600" src="https://user-images.githubusercontent.com/113745196/199974208-cb76f46f-dd4d-4c0a-af51-c4ceceb97349.jpg">
